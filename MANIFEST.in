@@ -1,0 +1,5 @@
+include im_dash_extension_pack/bundle.js
+include im_dash_extension_pack/bundle.js.map
+include im_dash_extension_pack/metadata.json
+include README.md
+include LICENSE.md
